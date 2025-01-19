@@ -1,6 +1,12 @@
 MIT License
 
-Copyright (c) 2025 The British University in Egypt
+Copyright (c) 2025 The British University in Egypt (BUE)
+Repository: BUE-Object-Oriented-Programming-Labs
+Author: Abdullah Khaled
+URL: https://github.com/abdullahkhfb/BUE-Object-Oriented-Programming-Labs
+
+This Object-Oriented Programming Labs codebase and associated documentation files
+are educational materials developed at The British University in Egypt.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,8 +15,11 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice, repository information, and this permission
+   notice shall be included in all copies or substantial portions of the Software.
+
+2. Any academic or educational use must cite The British University in Egypt
+   as the original source of the materials.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
