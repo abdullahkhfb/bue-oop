@@ -34,16 +34,26 @@ Welcome to the **BUE Object-Oriented Programming Labs** repository! This collect
    ```
 
 2. Navigate to the project directory:
-
-   ```bash
-   cd BUE-Object-Oriented-Programming-Labs
+   ```sh
+   cd "Code Solutions"
    ```
 
-3. Compile and run the programs. For example:
-   ```bash
-   g++ -o main "Lab 6/main.cpp" "Lab 6/Animal.cpp" "Lab 6/Zoologist.cpp"
-   ./main
-   ```
+## Usage
+
+To compile and run a specific program, navigate to the corresponding directory and use the following commands:
+
+### Example
+
+To compile and run
+
+main.cpp
+
+in `Lab 6`:
+
+```sh
+g++ -o main Lab\ 6/main.cpp Lab\ 6/Animal.cpp Lab\ 6/Zoologist.cpp
+./main
+```
 
 ---
 
