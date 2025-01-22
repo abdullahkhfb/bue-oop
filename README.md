@@ -53,6 +53,7 @@ main.cpp
 in `Lab 6`:
 
 ```sh
+
 g++ -o main "Lab\ 6/main.cpp" "Lab\ 6/Animal.cpp" "Lab\ 6/Zoologist.cpp"
 ./main
 ```
