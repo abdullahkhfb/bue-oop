@@ -1,6 +1,8 @@
-# 🎓 BUE Object-Oriented Programming Labs
+<p align="center">
+  <img src="https://pgs.bue.edu.eg/pgs/css/images/BUE-logo2-03.png" width="300" alt="BUE Logo">
+</p>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+# 🎓 BUE Object-Oriented Programming Labs ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 🚀 Introduction
 
